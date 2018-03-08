@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: HilaryBerigan.com
 header-img: img/home-bg.png
 email: berigan.hilary@gmail.com
 copyright_name: hilaryberigan
 description: > # this means to ignore newlines until "baseurl:"
-  
+  The thoughts of an ADHD programmer
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  hilaryberigan
